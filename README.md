@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS, Node JS | 
 - 🌱 I’m currently learning MERN Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me : mr.j06031997@gmail.com
+- 📫 How to reach me : jeman060397@gmail.com
 
 <!---
 Jeman-Kumar-97-06/Jeman-Kumar-97-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
