@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 💞️ My Ultimate goal is to become a Bug Bounty Hunter
 - 📫 How to reach me : jeman060397@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide=html,css)
 
 <!---
 Jeman-Kumar-97-06/Jeman-Kumar-97-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
