@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS, Node JS, React JS & Python
 - 🌱 I’m currently learning MERN Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 💞️ My Ultimate goal is to become a bug bounty hunter
+- 💞️ My Ultimate goal is to become a Bug Bounty Hunter
 - 📫 How to reach me : jeman060397@gmail.com
 
 <!---
